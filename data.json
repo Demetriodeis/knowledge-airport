@@ -1,0 +1,2382 @@
+[
+  {
+    "OPERACAO": {
+      "ITEM": "FB",
+      "Nome": "A SAIDEIRA"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L2",
+        "2": "Mezanino"
+      },
+      "Tipo": "INTER"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "FB",
+      "Nome": "A SAIDEIRA"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L2",
+        "2": "Mezanino"
+      },
+      "Tipo": "DOM"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "FB",
+      "Nome": "BOB'S"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L2",
+        "2": "Mezanino"
+      },
+      "Tipo": "PUB"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "FB",
+      "Nome": "BURGER KING"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L2",
+        "2": "Mezanino"
+      },
+      "Tipo": "DOM"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "FB",
+      "Nome": "CASA BAUDUCCO"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "PUB"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "FB",
+      "Nome": "CASA DO PÃO DE QUEIJO"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L1",
+        "2": "Desembarque"
+      },
+      "Tipo": "PUB"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "FB",
+      "Nome": "CASA DO PÃO DE QUEIJO"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "DOM"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "FB",
+      "Nome": "CASA DO PÃO DE QUEIJO"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T1",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "DOM"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "FB",
+      "Nome": "DELTA EXPRESSO"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L1",
+        "2": "Desembarque"
+      },
+      "Tipo": "PUB"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "FB",
+      "Nome": "DELTA EXPRESSO"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "DOM"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "FB",
+      "Nome": "DELTA EXPRESSO"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "PSU",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "INTER"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "FB",
+      "Nome": "DIVINO FOGÃO"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L2",
+        "2": "Mezanino"
+      },
+      "Tipo": "PUB"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "FB",
+      "Nome": "FACTORY"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "PSU",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "INTER"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "FB",
+      "Nome": "GALEÃO COFFEE SHOP"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "DOM"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "FB",
+      "Nome": "GIRAFFAS"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L2",
+        "2": "Mezanino"
+      },
+      "Tipo": "PUB"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "FB",
+      "Nome": "JAMIE'S DELI"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "PSU",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "INTER"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "FB",
+      "Nome": "KAFÉ"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L1",
+        "2": "Desembarque"
+      },
+      "Tipo": "PUB"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "FB",
+      "Nome": "KOPENHAGEN"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "PUB"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "FB",
+      "Nome": "MANIA DE CHURRASCO"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L2",
+        "2": "Mezanino"
+      },
+      "Tipo": "PUB"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "FB",
+      "Nome": "MC DONALDS"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "DOM"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "FB",
+      "Nome": "MC DONALDS SORVETE"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L1",
+        "2": "Desembarque"
+      },
+      "Tipo": "PUB"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "FB",
+      "Nome": "NUTTY BAVARIAN"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "PUB"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "FB",
+      "Nome": "NUTTY BAVARIAN"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "DOM"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "FB",
+      "Nome": "PALAPHITA"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L2",
+        "2": "Mezanino"
+      },
+      "Tipo": "INTER"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "FB",
+      "Nome": "PIZZA HUT"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L2",
+        "2": "Mezanino"
+      },
+      "Tipo": "PUB"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "FB",
+      "Nome": "RITAZZA"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "PSU",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "INTER"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "FB",
+      "Nome": "SPOLETO"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L2",
+        "2": "Mezanino"
+      },
+      "Tipo": "PUB"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "FB",
+      "Nome": "STARBUCKS"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L2",
+        "2": "Mezanino"
+      },
+      "Tipo": "PUB"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "FB",
+      "Nome": "STARBUCKS"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "DOM"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "FB",
+      "Nome": "SUBWAY"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L2",
+        "2": "Mezanino"
+      },
+      "Tipo": "PUB"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "FB",
+      "Nome": "SUBWAY"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L2",
+        "2": "Mezanino"
+      },
+      "Tipo": "DOM"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "FB",
+      "Nome": "SUBWAY"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L2",
+        "2": "Mezanino"
+      },
+      "Tipo": "INTER"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "FB",
+      "Nome": "TGI FRIDAY'S"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L1",
+        "2": "Desembarque"
+      },
+      "Tipo": "PUB"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "FB",
+      "Nome": "UPPER CRUST"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "DOM"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "SR",
+      "Nome": "ACIUM"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L2",
+        "2": "Embarque"
+      },
+      "Tipo": "PUB"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "SR",
+      "Nome": "ACIUM"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "DOM"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "FB",
+      "Nome": "AERO SPORTS BAR"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "DOM"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "PS",
+      "Nome": "AEROCHIP"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L1",
+        "2": "Desembarque"
+      },
+      "Tipo": "PUB"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "VIP",
+      "Nome": "AMERICAN AIRLINES"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L4",
+        "2": "Embarque"
+      },
+      "Tipo": "INTER"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "SR",
+      "Nome": "AMSTERDAM SAUER"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L2",
+        "2": "Mezanino"
+      },
+      "Tipo": "INTER"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "SR",
+      "Nome": "ARTY RIO DESIGN"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "INTER"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "SR",
+      "Nome": "ARTY RIO DESIGN"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "DOM"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "PS",
+      "Nome": "ATM (Caixa Eletrônico)"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L1",
+        "2": "Desembarque"
+      },
+      "Tipo": "DOM"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "PS",
+      "Nome": "ATM (Caixa Eletrônico)"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L1",
+        "2": "Desembarque"
+      },
+      "Tipo": "PUB"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "PS",
+      "Nome": "ATM (Caixa Eletrônico)"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L2",
+        "2": "Mezanino"
+      },
+      "Tipo": "PUB"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "PS",
+      "Nome": "ATM (Caixa Eletrônico)"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L2",
+        "2": "Mezanino"
+      },
+      "Tipo": "PUB"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "PS",
+      "Nome": "ATM (Caixa Eletrônico)"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L1",
+        "2": "Desembarque"
+      },
+      "Tipo": "PUB"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "PS",
+      "Nome": "ATM (Caixa Eletrônico)"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L2",
+        "2": "Mezanino"
+      },
+      "Tipo": "DOM"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "SR",
+      "Nome": "BAGAGGIO"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "PUB"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "SR",
+      "Nome": "BAGAGGIO"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "PUB"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "PS",
+      "Nome": "BLUMA"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "DOM"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "PS",
+      "Nome": "BLUMA WELLNESS"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "PSU",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "INTER"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "FB",
+      "Nome": "BOBS SHAKES"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L0",
+        "2": "Desembarque"
+      },
+      "Tipo": "PUB"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "FB",
+      "Nome": "BOBS SHAKES"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "PUB"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "SR",
+      "Nome": "BOLA SHOW"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L2",
+        "2": "Mezanino"
+      },
+      "Tipo": "INTER"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "SR",
+      "Nome": "BOLA SHOW"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "DOM"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "SR",
+      "Nome": "BOLA SHOW"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L2",
+        "2": "Mezanino"
+      },
+      "Tipo": "INTER"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "SR",
+      "Nome": "BRASILEIRÍSSIMA"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "PSU",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "INTER"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "SR",
+      "Nome": "BRASILEIRÍSSIMA"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "PUB"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "SR",
+      "Nome": "BRASILEIRÍSSIMA"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L2",
+        "2": "Mezanino"
+      },
+      "Tipo": "INTER"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "SR",
+      "Nome": "BRASILEIRÍSSIMA"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L2",
+        "2": "Mezanino"
+      },
+      "Tipo": "DOM"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "SR",
+      "Nome": "BRITT"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "PSU",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "INTER"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "SR",
+      "Nome": "BRITT"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "PUB"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "SR",
+      "Nome": "BRITT"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "INTER"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "SR",
+      "Nome": "CHILLI BEANS"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "PSU",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "INTER"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "SR",
+      "Nome": "CHILLI BEANS"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "DOM"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "FB",
+      "Nome": "COFFEE SPOT"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "PSU",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "INTER"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "SR",
+      "Nome": "DUFRY EXPRESS"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "PSU",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "INTER"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "SR",
+      "Nome": "DUFRY EXPRESS"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "DOM"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "SR",
+      "Nome": "DUFRY LABS"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "PUB"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "SR",
+      "Nome": "DUFRY SHOPPING"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L2",
+        "2": "Mezanino"
+      },
+      "Tipo": "PUB"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "SR",
+      "Nome": "DUFRY SHOPPING"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L2",
+        "2": "Mezanino"
+      },
+      "Tipo": "DOM"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "SR",
+      "Nome": "DUFRY SHOPPING - HUDSON"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T1",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "DOM"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "DF",
+      "Nome": "DUTY FREE"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L1",
+        "2": "Desembarque"
+      },
+      "Tipo": "INTER"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "DF",
+      "Nome": "DUTY FREE"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L2",
+        "2": "Mezanino"
+      },
+      "Tipo": "INTER"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "FB",
+      "Nome": "Empanadas y tal"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L2",
+        "2": "Mezanino"
+      },
+      "Tipo": "INTER"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "FB",
+      "Nome": "Empanadas y tal"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "DOM"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "SR",
+      "Nome": "ENERGIA NATURAL"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "INTER"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "SR",
+      "Nome": "ENERGIA NATURAL"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "DOM"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "PS",
+      "Nome": "FARMELHOR"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L1",
+        "2": "Desembarque"
+      },
+      "Tipo": "PUB"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "SR",
+      "Nome": "Flamengo Experience"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "PSU",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "INTER"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "VIP",
+      "Nome": "FLYBONDI LOUNGE"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L4",
+        "2": "Embarque"
+      },
+      "Tipo": "INTER"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "FB",
+      "Nome": "FREDDO"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "DOM"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "SR",
+      "Nome": "FUEL"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "PUB"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "FB",
+      "Nome": "GENEAL + SORVETE ITÁLIA"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "DOM"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "DF",
+      "Nome": "GIFTS & TREATS"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L2",
+        "2": "Mezanino"
+      },
+      "Tipo": "INTER"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "CC",
+      "Nome": "GLOBAL EXCHANGE"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L1",
+        "2": "Desembarque"
+      },
+      "Tipo": "PUB"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "CC",
+      "Nome": "GLOBAL EXCHANGE"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L1",
+        "2": "Desembarque"
+      },
+      "Tipo": "PUB"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "CC",
+      "Nome": "GLOBAL EXCHANGE"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "PUB"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "CC",
+      "Nome": "GLOBAL EXCHANGE"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L1",
+        "2": "Desembarque"
+      },
+      "Tipo": "DOM"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "CC",
+      "Nome": "GLOBAL EXCHANGE"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "PUB"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "CC",
+      "Nome": "GLOBAL EXCHANGE"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L1",
+        "2": "Desembarque"
+      },
+      "Tipo": "INTER"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "CC",
+      "Nome": "GLOBAL EXCHANGE"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L2",
+        "2": "Mezanino"
+      },
+      "Tipo": "INTER"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "CC",
+      "Nome": "GLOBAL EXCHANGE"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L1",
+        "2": "Desembarque"
+      },
+      "Tipo": "INTER"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "VIP",
+      "Nome": "GOL"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L4",
+        "2": "Embarque"
+      },
+      "Tipo": "INTER"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "VIP",
+      "Nome": "GOL"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "DOM"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "FB",
+      "Nome": "Gran Coffee (Máquinas)"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T1",
+      "Nivel": {
+        "1": "L3",
+        "2": "Comercial"
+      },
+      "Tipo": "PUB"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "SR",
+      "Nome": "GRANADO"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L2",
+        "2": "Mezanino"
+      },
+      "Tipo": "INTER"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "FB",
+      "Nome": "Grand Cru"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "DOM"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "SR",
+      "Nome": "HAVAIANAS"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L2",
+        "2": "Mezanino"
+      },
+      "Tipo": "DOM"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "FB",
+      "Nome": "HAVANNA"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "DOM"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "FB",
+      "Nome": "HAVANNA (VENDING MACHINE)"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "PSU",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "INTER"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "SR",
+      "Nome": "H-STERN"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L2",
+        "2": "Mezanino"
+      },
+      "Tipo": "INTER"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "SR",
+      "Nome": "HUDSON"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "PSU",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "INTER"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "SR",
+      "Nome": "HUDSON"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "PSU",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "INTER"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "SR",
+      "Nome": "HUDSON"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "PUB"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "SR",
+      "Nome": "HUDSON"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L2",
+        "2": "Mezanino"
+      },
+      "Tipo": "INTER"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "SR",
+      "Nome": "HUDSON"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "DOM"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "SR",
+      "Nome": "HUDSON"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "DOM"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "SR",
+      "Nome": "HUDSON"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "DOM"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "DF",
+      "Nome": "HUGO BOSS"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L2",
+        "2": "Mezanino"
+      },
+      "Tipo": "INTER"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "PS",
+      "Nome": "IN BÚZIOS"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L1",
+        "2": "Desembarque"
+      },
+      "Tipo": "PUB"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "PS",
+      "Nome": "INTERFARMA"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L2",
+        "2": "Mezanino"
+      },
+      "Tipo": "DOM"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "PS",
+      "Nome": "INTERFARMA"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "INTER"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "FB",
+      "Nome": "JUICE DA ORLA"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L2",
+        "2": "Mezanino"
+      },
+      "Tipo": "DOM"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "FB",
+      "Nome": "KAFE"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "PUB"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "FB",
+      "Nome": "KAFE - LOJOSQUE"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L2",
+        "2": "Embarque"
+      },
+      "Tipo": "DOM"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "FB",
+      "Nome": "KAFE - SORVETES"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L1",
+        "2": "Desembarque"
+      },
+      "Tipo": "PUB"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "FB",
+      "Nome": "KAFE (PRAÇA DO RIO)"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L2",
+        "2": "Mezanino"
+      },
+      "Tipo": "DOM"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "FB",
+      "Nome": "KFC"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L2",
+        "2": "Mezanino"
+      },
+      "Tipo": "PUB"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "FB",
+      "Nome": "KFC"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L2",
+        "2": "Mezanino"
+      },
+      "Tipo": "INTER"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "FB",
+      "Nome": "KOZINHA"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L2",
+        "2": "Mezanino"
+      },
+      "Tipo": "PUB"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "DF",
+      "Nome": "LAST MINUTE"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "PSU",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "INTER"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "DF",
+      "Nome": "LAST MINUTE"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "PSU",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "INTER"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "DF",
+      "Nome": "LAST MINUTE"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "INTER"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "FB",
+      "Nome": "LATITUDE"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "PUB"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "SR",
+      "Nome": "LEITURA"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L2",
+        "2": "Mezanino"
+      },
+      "Tipo": "PUB"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "SR",
+      "Nome": "LEITURA"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L2",
+        "2": "Mezanino"
+      },
+      "Tipo": "DOM"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "DF",
+      "Nome": "LOCAL BRANDS"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L2",
+        "2": "Mezanino"
+      },
+      "Tipo": "INTER"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "DF",
+      "Nome": "LUXURY WATCHES"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L2",
+        "2": "Mezanino"
+      },
+      "Tipo": "INTER"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "SR",
+      "Nome": "MAGNÓLIA"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "PSU",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "INTER"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "SR",
+      "Nome": "MAGNÓLIA"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "DOM"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "PS",
+      "Nome": "MALEX"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L1",
+        "2": "Desembarque"
+      },
+      "Tipo": "PUB"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "PS",
+      "Nome": "MARINHO TURISMO BÚZIOS"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L1",
+        "2": "Desembarque"
+      },
+      "Tipo": "PUB"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "FB",
+      "Nome": "MARIPOSA"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L2",
+        "2": "Mezanino"
+      },
+      "Tipo": "PUB"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "FB",
+      "Nome": "MARIPOSA"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "PSU",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "INTER"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "FB",
+      "Nome": "MARIPOSA"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "DOM"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "DF",
+      "Nome": "MICHAEL KORS"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L2",
+        "2": "Mezanino"
+      },
+      "Tipo": "INTER"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "SR",
+      "Nome": "MR. CAT"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L2",
+        "2": "Mezanino"
+      },
+      "Tipo": "DOM"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "SR",
+      "Nome": "MUNDO MÁGICO"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "DOM"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "SR",
+      "Nome": "MyFamily"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L2",
+        "2": "Mezanino"
+      },
+      "Tipo": "DOM"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "SR",
+      "Nome": "NAÇÃO RUBRO NEGRA"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "DOM"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "FB",
+      "Nome": "NESCAFÉ"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "INTER"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "FB",
+      "Nome": "NUTTY BAVARIAN"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "PSU",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "INTER"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "FB",
+      "Nome": "Nutty Bavarian"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L1",
+        "2": "Desembarque"
+      },
+      "Tipo": "PUB"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "FB",
+      "Nome": "O PASQUIM"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L2",
+        "2": "Mezanino"
+      },
+      "Tipo": "DOM"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "FB",
+      "Nome": "Pipocassa"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "PSU",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "INTER"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "FB",
+      "Nome": "Pipocassa"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "DOM"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "VIP",
+      "Nome": "PLAZA PREMIUM LOUNGE"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "EDG",
+      "Nivel": {
+        "1": "L2",
+        "2": "Mezanino"
+      },
+      "Tipo": "PUB"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "VIP",
+      "Nome": "PLAZA PREMIUM LOUNGE"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L4",
+        "2": "Embarque"
+      },
+      "Tipo": "INTER"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "VIP",
+      "Nome": "PLAZA PREMIUM LOUNGE"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L2",
+        "2": "Mezanino"
+      },
+      "Tipo": "DOM"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "DF",
+      "Nome": "POLO RAUPH LAUREN"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L2",
+        "2": "Mezanino"
+      },
+      "Tipo": "INTER"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "PS",
+      "Nome": "PROTEC BAG"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "PUB"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "PS",
+      "Nome": "PROTEC BAG"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "PUB"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "DF",
+      "Nome": "R & C Space"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L2",
+        "2": "Mezanino"
+      },
+      "Tipo": "INTER"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "PS",
+      "Nome": "RIO TOUR"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L1",
+        "2": "Desembarque"
+      },
+      "Tipo": "PUB"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "CC",
+      "Nome": "SAFRA"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L1",
+        "2": "Desembarque"
+      },
+      "Tipo": "PUB"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "CC",
+      "Nome": "SAFRA"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "PUB"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "CC",
+      "Nome": "SAFRA"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L1",
+        "2": "Desembarque"
+      },
+      "Tipo": "INTER"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "CC",
+      "Nome": "SAFRA"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L2",
+        "2": "Mezanino"
+      },
+      "Tipo": "INTER"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "PS",
+      "Nome": "SENSE SPA"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "DOM"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "VIP",
+      "Nome": "STAR ALIANCE"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L4",
+        "2": "Embarque"
+      },
+      "Tipo": "INTER"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "SR",
+      "Nome": "TBT PRINT"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "DOM"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "SR",
+      "Nome": "TBT PRINT"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "PSU",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "INTER"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "PS",
+      "Nome": "TECBAN (Caixa Eletrônico)"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L1",
+        "2": "Desembarque"
+      },
+      "Tipo": "PUB"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "SR",
+      "Nome": "Tem Brilho no Ar"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "INTER"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "SR",
+      "Nome": "Tem Brilho no Ar"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "DOM"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "SR",
+      "Nome": "TRACK & FIELD"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "DOM"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "FB",
+      "Nome": "TRAVEL MARKET"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L3",
+        "2": "Embarque"
+      },
+      "Tipo": "PUB"
+    }
+  },
+  {
+    "OPERACAO": {
+      "ITEM": "DF",
+      "Nome": "TRAVEL STAR"
+    },
+    "LOCALIZACAO": {
+      "Terminal": "T2",
+      "Nivel": {
+        "1": "L2",
+        "2": "Mezanino"
+      },
+      "Tipo": "INTER"
+    }
+  }
+]
